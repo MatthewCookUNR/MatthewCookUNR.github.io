@@ -1,6 +1,4 @@
 
-console.log('swag');
-
 $(document).ready(function(){
 	var savedPosts;
 	var img;
